@@ -1,0 +1,10 @@
+Questão 6 – (0,25 ponto) Considerando o texto apresentado avalie as asserções a seguir e a relação proposta entre elas.
+
+	I.A instrução #include <stdio.h> no programa C é colocada para que possamos utilizar as funções scanf e printf
+					PORQUE					
+	II. Sendo i uma variável inteira, a seguinte chamada a scanf é válida: 	scanf("%d", &i)
+
+A respeito dessas asserções, assinale a opção correta.
+
+b) As asserções I e II são proposições verdadeiras, e a II não é uma justificativa correta da I.
+
